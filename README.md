@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  <div align="center">
  <a href="#">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kamatashi&show_icons=true&theme=algolia&include_all_commits=false&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayvid-San&layout=compact&langs_count=8&theme=algolia"/><br>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamatashi&layout=compact&langs_count=8&theme=algolia"/><br>
 </div> 
 
 <h3 align="center" >⚔️ My Full Stats ⚔️</h3>
