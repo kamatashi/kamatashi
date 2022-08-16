@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
  <div align="center">
  <a href="#">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kamatashi&show_icons=true&theme=algolia&include_all_commits=false&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamatashi&layout=compact&langs_count=8&theme=algolia"/><br>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kamatashi&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamatashi&layout=compact&langs_count=8&theme=midnight-purple"/><br>
 </div> 
 
 <h3 align="center" >⚔️ My Full Stats ⚔️</h3>
 
 <div align="center" style="display: inline_block">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamatashi&theme=algolia">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamatashi&theme=midnight-purple">
 
 </div>
 
@@ -34,6 +34,6 @@ Here are some ideas to get you started:
       My trophies
   </summary>
   <p align="center" margin="0 auto">
-    <img src="https://github-profile-trophy.vercel.app/?username=kamatashi&theme=algolia&title=Followers,Commits,Repositories,MultiLanguage,PullRequest&column=5">
+    <img src="https://github-profile-trophy.vercel.app/?username=kamatashi&theme=midnight-purple&title=Followers,Commits,Repositories,MultiLanguage,PullRequest&column=5">
   </p>
 </details>
