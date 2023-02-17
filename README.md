@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **kamatashi/kamatashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Olá!
+## Olá! Meu nome é Dayvid <img align="right" src="https://user-images.githubusercontent.com/77745454/153294700-39b68079-4c4f-4129-a115-ec65be6b4a25.png" width="200" />
+
+- 🛡️ Sou estudante na Univesidade Federal de Sergipe
+- 🗡️ Estou no segundo período
+- 🔬 Participo de pesquisa relacionada a Geoprocessamento e Aprendizado de Máquina
+
+#
