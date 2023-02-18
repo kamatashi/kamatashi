@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 #
 <br>
 <br>
+<br>
+<br>
  <div align="center">
  <a href="#">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kamatashi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
