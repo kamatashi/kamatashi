@@ -21,3 +21,18 @@ Here are some ideas to get you started:
 - 🔬 Participo de pesquisa relacionada a Geoprocessamento e Aprendizado de Máquina
 
 #
+<br>
+<br>
+ <div align="center">
+ <a href="#">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kamatashi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamatashi&layout=compact&langs_count=8&theme=github_dark"/>
+ 
+   
+</div> 
+
+#
+ <div align="center">
+  <img align="Escudo_Familia_Santana" src="https://user-images.githubusercontent.com/77745454/153318783-aa0d4001-6955-4848-90f9-ca5e3e66214c.png" width="140" />
+   
+</div>
