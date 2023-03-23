@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 - 🛡️ Sou estudante na Univesidade Federal de Sergipe
 - 🗡️ Estou no segundo período
 - 🔬 Participo de pesquisa relacionada a Geoprocessamento e Aprendizado de Máquina
+- 🔭 Analista de dados na ROOT
 
 #
-<br>
 <br>
 <br>
 <br>
