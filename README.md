@@ -4,7 +4,7 @@
 - 🛡️ Sou estudante na Univesidade Federal de Sergipe
 - 🗡️ Estou no quarto período
 - 🔬 Participo de pesquisas relacionadas a Geoprocessamento, Aplicação da Computação na Engenharia Civil e Aprendizado de Máquina
-- 🔭 Associado da Liga Acadêmica de Desenvolvimento Web (LAWD)
+
 
 #
 <br>
