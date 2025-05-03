@@ -1,5 +1,5 @@
 
-## Olá! Meu nome é Dayvid <image align="right" width="250" src="https://github.com/user-attachments/assets/e08f2578-e47a-4b43-bb99-332555aa651a">
+## Olá! Meu nome é Dayvid <image align="right" width="250" src="https://github.com/user-attachments/assets/97e47c11-9932-4bed-8261-80badc1185d8">
 
 - 🛡️ Sou estudante na Univesidade Federal de Sergipe
 - 🗡️ Estou no quarto período
