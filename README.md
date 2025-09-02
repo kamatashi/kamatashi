@@ -3,7 +3,7 @@
 
 - 🛡️ Sou estudante na Univesidade Federal de Sergipe
 - 🗡️ Estou no quarto período
-- ⚔️ Criador do TYTO.club: https://tytocode.vercel.app/club
+- ⚔️ Criador do TYTO.club: https://tytocode.com.br/club
 - 🔬 Participo de pesquisas relacionadas a Geoprocessamento, Aplicação da Computação na Engenharia Civil e Aprendizado de Máquina
 
 
